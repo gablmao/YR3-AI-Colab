@@ -1,2 +1,3 @@
 # YR3-AI-Colab
-stored the Google Colab for MDX CST3133 Final Coursework
+Like the other MDX repositories, this is more for archiving the work done in MDX. In this case, the Google Colab machine learning/AI tasks for MDX CST3133.
+Links to the datasets used in this project are in the Colab (too big to upload here haha).
